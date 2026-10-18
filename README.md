@@ -1,2 +1,5 @@
-# embedded-programming-tasks
+# Description
 Solved tasks for the embedded programming course
+
+# Solutions
+
